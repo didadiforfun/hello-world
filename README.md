@@ -1,2 +1,3 @@
 # hello-world
+learn c the hard way...
 didadiforfun_the_github_guide
